@@ -2,7 +2,7 @@
 
 **Date:** 2024-10-15
 
-## 📚 Project Purpose
+## Project Purpose
 Inspired by the Halloween season, this project investigates whether longer horror movies are rated better than shorter ones. As busy students with limited time, understanding if longer movies provide a better viewing experience can help in deciding whether to allocate extra time for them.
 
 **Population:** All horror movies listed on IMDb.
@@ -17,7 +17,7 @@ Inspired by the Halloween season, this project investigates whether longer horro
 
 ---
 
-## 📊 Data Collection
+## Data Collection
 - Initial search included Kaggle datasets and Canadian public polling data.
 - Final dataset selected: **IMDb Horror: Chilling Movie Dataset** from Kaggle.
 - Contains 837 horror movies with over 25,000 reviews each.
@@ -26,7 +26,7 @@ Inspired by the Halloween season, this project investigates whether longer horro
 
 ---
 
-## 🔍 Statistical Analysis
+## Statistical Analysis
 ### Libraries Used
 - `mosaic`
 - `ggplot2`
@@ -56,7 +56,7 @@ Inspired by the Halloween season, this project investigates whether longer horro
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 - Longer horror movies tend to have higher IMDb ratings than shorter horror movies.
 - Horror fans are encouraged to invest time in longer movies for a better viewing experience.
 - The project provided practical learning in hypothesis testing, confidence intervals, data sourcing, and real-world data handling.
